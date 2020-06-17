@@ -1,4 +1,3 @@
-# CloVir0
-Código de clovir 0
+# Código de la app del hackatón de grupo salinas xd
 
-este es mi primer readme...
+
